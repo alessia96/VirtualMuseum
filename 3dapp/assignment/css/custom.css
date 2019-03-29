@@ -40,6 +40,32 @@ nav {
     padding-left: 3px;
 }
 
+footer {
+    background-color: #161a25;
+    padding: 20px 0px 60px 0px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: #9ea39f;
+    text-decoration: none;
+}
+
+.footer-copyright {
+    background-color: #161a25;
+    padding: 15px;
+}
+
+.contents h1, p {
+    text-align: center;
+}
+
 #main_3d_image {
     background-image: url(../assets/images/gun.jpg);
     background-repeat: no-repeat;
@@ -81,7 +107,7 @@ button:hover {
 }
 
 .contents {
-    padding: 20px 200px 20px 200px;
+    padding: 50px 200px 0px 200px;
 }
 
 .centered {
@@ -96,20 +122,22 @@ button:hover {
     padding: 1px;
     border: none;
     border-radius: 0px;
-    display: block;
 }
 
-.card-img-top:hover {
+.card-body:hover {
     opacity: 0.25;
     transition: .2s ease-in-out;
+    text: black;
 }
 
 .col-sm-12 {
     padding: 0px;
-    margin: 0px;
+}
+
+.col-sm-6 {
+    padding: 0px;
 }
 
 .col-sm-4 {
     padding: 0px;
-    margin: 0px;
 }
