@@ -1,0 +1,115 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: Roboto;
+}
+
+nav {
+    background-color: black;
+}
+
+.navbar, .navbar-brand, .nav-link {
+    background-color: #161a25;
+    color: white;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: #9ea39f;
+}
+
+.logo {
+    margin-top: 20px;
+    color: white;
+}
+
+.logo h1 {
+    font-family: "Roboto Black";
+    font-size: 40px;
+    margin: 0;
+    margin-top: -20px;
+    margin-bottom: -15px;
+    float: left;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 2px;
+}
+
+.logo p {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 3px;
+}
+
+#main_3d_image {
+    background-image: url(../assets/images/gun.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    padding: 200px;
+    text-align: center;
+    color: white;
+}
+
+#main_3d_image h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+#main_3d_image h2 {
+    font-size: 25px;
+}
+
+#main_3d_image h3 {
+    font-size: 15px;
+}
+
+button {
+    color: white;
+    background-color: #161a25;
+    border: 0;
+    box-shadow: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:hover {
+    background-color: #424743;
+}
+
+.contents {
+    padding: 20px 200px 20px 200px;
+}
+
+.centered {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card, .card-body, .card-img-top, .img-fluid, .img-thumbnail {
+    padding: 1px;
+    border: none;
+    border-radius: 0px;
+    display: block;
+}
+
+.card-img-top:hover {
+    opacity: 0.25;
+    transition: .2s ease-in-out;
+}
+
+.col-sm-12 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.col-sm-4 {
+    padding: 0px;
+    margin: 0px;
+}
