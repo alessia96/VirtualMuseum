@@ -88,15 +88,6 @@ footer a:hover {
     font-size: 15px;
 }
 
-.small_3d_image {
-    background-image: url(../assets/images/gun.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 150px;
-    text-align: center;
-    color: white;
-}
-
 button {
     color: white;
     background-color: #161a25;

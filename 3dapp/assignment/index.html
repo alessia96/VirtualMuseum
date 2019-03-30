@@ -40,13 +40,13 @@
                         <a class="nav-link" href="javascript:swap('about')">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
+                        <a class="nav-link" href="javascript:swap('gallery')">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">References</a>
+                        <a class="nav-link" href="javascript:swap('references')">References</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Download</a>
+                        <a class="nav-link" href="javascript:swap('download')">Download</a>
                     </li>
                 </ul>
             </div>
@@ -55,21 +55,23 @@
 
     <!-- Body -->
     <div class="container-fluid">
-        <div id="home">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div id="main_3d_image">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="main_3d_image">
+                    <div id="main_text">
                         <h1>Firearms</h1>
                         <h2>Virtual Museum</h2>
                         <h3>
-                            <button>
+                            <button onclick="swap('gallery')">
                                 View Gallery
                             </button>
                         </h3>
                     </div>
                 </div>
             </div>
+        </div>
 
+        <div id="home">
             <div class="contents">
                 <div class="row">
                     <div class="col-sm-12">
@@ -84,7 +86,7 @@
                     <div class="col-sm-4">
                         <div class="card">
                             <div class="card-body">
-                                <a href="#"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
+                                <a href="javascript:swap('model1')"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
                                 <div class="centered">
                                     Model 1
                                 </div>
@@ -95,7 +97,7 @@
                     <div class="col-sm-4">
                         <div class="card">
                             <div class="card-body">
-                                <a href="#"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
+                                <a href="javascript:swap('model2')"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
                                 <div class="centered">
                                     Model 2
                                 </div>
@@ -106,7 +108,7 @@
                     <div class="col-sm-4">
                         <div class="card">
                             <div class="card-body">
-                                <a href="#"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
+                                <a href="javascript:swap('model3')"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
                                 <div class="centered">
                                     Model 3
                                 </div>
@@ -119,7 +121,7 @@
                     <div class="col-sm-4">
                         <div class="card">
                             <div class="card-body">
-                                <a href="#"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
+                                <a href="javascript:swap('model4')"><img class="card-img-top img-fluid img-thumbnail" src="assets/images/gun.jpg" alt="Gun"></a>
                                 <div class="centered">
                                     Model 4
                                 </div>
@@ -162,18 +164,54 @@
         </div>
 
         <div id="about" style="display: none;">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="small_3d_image">
-
-                    </div>
-                </div>
-            </div>
-
             <div class="contents">
                 <div class="row">
                     <div class="col-sm-12">
                         <h1>About</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="site-map" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Site Map</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="references" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>References</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="download" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Download</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="gallery" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Gallery</h1>
                         <p>displayed here</p>
                     </div>
                 </div>
@@ -191,7 +229,41 @@
             </div>
         </div>
 
-        <br><br>
+        <div id="model2" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Model2</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="model3" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Model3</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="model4" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Model4</h1>
+                        <p>displayed here</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br><br><br><br>
+
     </div>
 
     <!-- Footer -->
@@ -199,22 +271,23 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-6" align="right">
-                    <a href="#!">About</a><br>
-                    <a href="#!">Sitemap</a><br>
-                    <a href="#!">References</a><br>
-                    <a href="#!">Downloads</a><br>
+                    <a href="javascript:swap('about')">About</a><br>
+                    <a href="javascript:swap('site-map')">Site Map</a><br>
+                    <a href="javascript:swap('references')">References</a><br>
+                    <a href="javascript:swap('download')">Downloads</a><br>
                 </div>
                 <div class="col-sm-6" align="left">
-                    <a href="#!">Model 1</a><br>
-                    <a href="#!">Model 2</a><br>
-                    <a href="#!">Model 3</a><br>
-                    <a href="#!">Model 4</a><br>
+                    <a href="javascript:swap('model1')">Model 1</a><br>
+                    <a href="javascript:swap('model2')">Model 2</a><br>
+                    <a href="javascript:swap('model3')">Model 3</a><br>
+                    <a href="javascript:swap('model4')">Model 4</a><br>
                 </div>
             </div>
         </div>
         <!-- Copyright -->
         <div class="footer-copyright fixed-bottom text-center">
-            &copy; 2019 Copyright: Alessia Nigretti
+            &copy; 2019 Copyright:
+            <a href="https://github.com/alessia96">Alessia Nigretti</a>
         </div>
     </footer>
 
