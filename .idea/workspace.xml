@@ -342,7 +342,7 @@
       <workItem from="1554046508824" duration="758000" />
       <workItem from="1554121024927" duration="749000" />
       <workItem from="1554131477594" duration="8249000" />
-      <workItem from="1554141565634" duration="3348000" />
+      <workItem from="1554141565634" duration="3385000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1553869698092</created>
@@ -407,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554141441309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Refactored gallery generator and fixed bug with content swap main_image">
+      <created>1554144951100</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554144951100</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52452000" />
+    <option name="totallyTimeSpent" value="52489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,7 +431,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -460,7 +466,8 @@
     <MESSAGE value="Added first x3d model and x3dom package" />
     <MESSAGE value="Created 3d images gallery with gallery generator and JQuery" />
     <MESSAGE value="Modified gallery css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified gallery css" />
+    <MESSAGE value="Refactored gallery generator and fixed bug with content swap main_image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored gallery generator and fixed bug with content swap main_image" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/fade.css" />
