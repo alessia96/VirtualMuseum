@@ -1,6 +1,10 @@
 function swap(selected)
 {
-    console.log(window.location.pathname);
+    if (document.getElementById('home').style.display == 'block')
+    {
+        document.getElementById('main_3d_image').style.height = '150px';
+        document.getElementById('main_3d_image').style.padding = '0px';
+    }
 
     // First do not display all div id contents
     document.getElementById('home').style.display = 'none';
@@ -15,13 +19,6 @@ function swap(selected)
     document.getElementById('model2').style.display = 'none';
     document.getElementById('model3').style.display = 'none';
     document.getElementById('model4').style.display = 'none';
-
-    // TODO fix for index page
-    if (window.location.pathname == '*/index.html')
-    {
-        document.getElementById('main_3d_image').style.height = '150px';
-        document.getElementById('main_3d_image').style.padding = '0px';
-    }
 
     if (selected == 'home')
     {

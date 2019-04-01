@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f4e7de86-17dd-4262-8268-97db241394e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dapp/assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dapp/assignment/scripts/gallery_generator.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,19 +30,19 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.4620253">
       <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.49837488">
+        <splitter split-orientation="vertical" split-proportion="0.58938247">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/3dapp/assignment/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="1479">
-                      <caret line="315" lean-forward="true" selection-start-line="315" selection-end-line="315" />
+                    <state relative-caret-position="391">
+                      <caret line="244" column="42" selection-start-line="244" selection-start-column="42" selection-end-line="244" selection-end-column="42" />
                       <folding>
                         <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                        <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                         <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -54,7 +56,6 @@
                         <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                         <element signature="n#style#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                         <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
-                        <element signature="n#style#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                         <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#style#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -67,38 +68,38 @@
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="true">
+              <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/3dapp/assignment/model/data.json">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="884">
-                      <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+                    <state relative-caret-position="204">
+                      <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="false">
+              <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="204">
+                    <state relative-caret-position="-369">
                       <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
                     </state>
                   </provider>
                 </entry>
               </file>
               <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/hook.php">
+                <entry file="file://$PROJECT_DIR$/3dapp/assignment/hook.php">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="85">
-                      <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                    <state relative-caret-position="34">
+                      <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
                     </state>
                   </provider>
                 </entry>
               </file>
               <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/3dapp/assignment/scripts/gallery_generator.js">
+                <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="272">
-                      <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+                    <state relative-caret-position="425">
+                      <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
                     </state>
                   </provider>
                 </entry>
@@ -106,8 +107,8 @@
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/content_swap.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="374">
-                      <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+                    <state relative-caret-position="34">
+                      <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
                     </state>
                   </provider>
                 </entry>
@@ -119,8 +120,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/custom.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="143">
-                      <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
+                    <state relative-caret-position="92">
+                      <caret line="132" column="12" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="12" />
                     </state>
                   </provider>
                 </entry>
@@ -136,7 +137,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="156">
+                    <state relative-caret-position="105">
                       <caret line="172" column="62" selection-start-line="172" selection-start-column="59" selection-end-line="172" selection-end-column="62" />
                       <folding>
                         <element signature="n#head#0;n#html#0;n#!!top" />
@@ -234,12 +235,12 @@
         <option value="$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js" />
         <option value="$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js" />
         <option value="$PROJECT_DIR$/3dapp/assignment/model/data.json" />
-        <option value="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" />
         <option value="$PROJECT_DIR$/3dapp/assignment/css/jquery.fancybox.min.css" />
-        <option value="$PROJECT_DIR$/3dapp/assignment/index.html" />
         <option value="$PROJECT_DIR$/3dapp/assignment/scripts/hook.php" />
         <option value="$PROJECT_DIR$/3dapp/assignment/scripts/gallery_generator.js" />
         <option value="$PROJECT_DIR$/3dapp/assignment/css/custom.css" />
+        <option value="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" />
+        <option value="$PROJECT_DIR$/3dapp/assignment/index.html" />
       </list>
     </option>
   </component>
@@ -255,7 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,50 +279,13 @@
               <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
               <item name="3dapp" type="462c0819:PsiDirectoryNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
-              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
-              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
-              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
-              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
-              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,9 +298,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\js" />
       <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment" />
       <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\scripts" />
-      <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,7 +341,8 @@
       <workItem from="1553948026864" duration="12820000" />
       <workItem from="1554046508824" duration="758000" />
       <workItem from="1554121024927" duration="749000" />
-      <workItem from="1554131477594" duration="8156000" />
+      <workItem from="1554131477594" duration="8249000" />
+      <workItem from="1554141565634" duration="3348000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1553869698092</created>
@@ -436,11 +400,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554141012755</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modified gallery css">
+      <created>1554141441309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554141441309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49011000" />
+    <option name="totallyTimeSpent" value="52452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,10 +426,9 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09488273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14605543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="PHP-CGI Server" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -471,6 +441,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.17984831" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,7 +459,8 @@
     <MESSAGE value="Page swapping completed" />
     <MESSAGE value="Added first x3d model and x3dom package" />
     <MESSAGE value="Created 3d images gallery with gallery generator and JQuery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created 3d images gallery with gallery generator and JQuery" />
+    <MESSAGE value="Modified gallery css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified gallery css" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/fade.css" />
@@ -538,34 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="172" column="62" selection-start-line="172" selection-start-column="59" selection-end-line="172" selection-end-column="62" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5457">
-          <caret line="321" column="15" selection-start-line="321" selection-start-column="15" selection-end-line="321" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/js/gallery_generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -600,13 +544,6 @@
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/content_swap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/jquery.fancybox.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -614,50 +551,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/scripts/gallery_generator.js">
+    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="172" column="62" selection-start-line="172" selection-start-column="59" selection-end-line="172" selection-end-column="62" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="15" selection-start-line="321" selection-start-column="15" selection-end-line="321" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/model/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/hook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/content_swap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/hook.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="132" column="12" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/hook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="92">
+          <caret line="132" column="12" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="315" lean-forward="true" selection-start-line="315" selection-end-line="315" />
+        <state relative-caret-position="391">
+          <caret line="244" column="42" selection-start-line="244" selection-start-column="42" selection-end-line="244" selection-end-column="42" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -671,7 +643,6 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -683,10 +654,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/model/data.json">
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        <state relative-caret-position="-369">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
