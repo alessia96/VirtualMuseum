@@ -6,17 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 
     <!-- X3DOM.css -->
     <link rel="stylesheet" type="text/css" href="css/x3dom.css">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 
     <title>Firearms Virtual Museum</title>
 
@@ -41,6 +40,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="javascript:swap('gallery')">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript:swap('going-beyond')">Going Beyond</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="javascript:swap('references')">References</a>
@@ -215,7 +217,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h1>Gallery</h1>
-                        <p>displayed here</p>
+                        <div id="gallery_table"></div>
                     </div>
                 </div>
             </div>
@@ -225,12 +227,16 @@
             <div class="contents">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1>Model1</h1>
+                        <div id="title_home" class="card-title homeText"></div>
+                        <div id="subTitle_home" class="card-subtitle homeText"></div>
+
                         <x3d id="model3D" width="800px" height="400px">
                             <scene>
                                 <inline url="assets/x3d/gun.x3d"> </inline>
                             </scene>
                         </x3d>
+
+                        <div id="description_home" class="card-text homeText"></div>
                     </div>
                 </div>
             </div>
@@ -269,6 +275,17 @@
             </div>
         </div>
 
+        <div id="going-beyond" style="display: none;">
+            <div class="contents">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1>Going Beyond</h1>
+                        <p>* 3D</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <br><br><br><br>
 
     </div>
@@ -280,14 +297,12 @@
                 <div class="col-sm-6" align="right">
                     <a href="javascript:swap('about')">About</a><br>
                     <a href="javascript:swap('site-map')">Site Map</a><br>
-                    <a href="javascript:swap('references')">References</a><br>
-                    <a href="javascript:swap('download')">Downloads</a><br>
+                    <a href="javascript:swap('going-beyond')">Going Beyond</a>
                 </div>
                 <div class="col-sm-6" align="left">
-                    <a href="javascript:swap('model1')">Model 1</a><br>
-                    <a href="javascript:swap('model2')">Model 2</a><br>
-                    <a href="javascript:swap('model3')">Model 3</a><br>
-                    <a href="javascript:swap('model4')">Model 4</a><br>
+                    <a href="javascript:swap('references')">References</a><br>
+                    <a href="javascript:swap('download')">Downloads</a><br>
+                    <a href="https://github.com/alessia96">GitHub</a><br>
                 </div>
             </div>
         </div>
@@ -302,15 +317,13 @@
     <!-- JavaScript Files-->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
     <script src="js/jquery-3.2.1.js" crossorigin="anonymous"></script>
-
-    <!-- Custom JavaScript code for your 3d App -->
-    <script src="js/custom.js" crossorigin="anonymous"></script>
+    <script src="js/jquery.fancybox.min.js"></script>
 
     <!-- JavaScript to swap for SPA and restyle -->
     <script src="js/content_swap.js"></script>
+    <script type="text/javascript" src="scripts/gallery_generator.js"></script>
+    <script src="js/getJsonData.js"></script>
 
     <!-- Include the x3dom JavaScript -->
     <script type="text/javascript" src="js/x3dom.js"></script>

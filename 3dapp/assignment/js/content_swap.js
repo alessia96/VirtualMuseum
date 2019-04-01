@@ -1,10 +1,13 @@
 function swap(selected)
 {
+    console.log(window.location.pathname);
+
     // First do not display all div id contents
     document.getElementById('home').style.display = 'none';
     document.getElementById('main_text').style.display = 'none';
     document.getElementById('about').style.display = 'none';
     document.getElementById('gallery').style.display = 'none';
+    document.getElementById('going-beyond').style.display = 'none';
     document.getElementById('references').style.display = 'none';
     document.getElementById('download').style.display = 'none';
     document.getElementById('site-map').style.display = 'none';
@@ -13,7 +16,8 @@ function swap(selected)
     document.getElementById('model3').style.display = 'none';
     document.getElementById('model4').style.display = 'none';
 
-    if (window.location.pathname == '/VirtualMuseum/3dapp/assignment/index.html')
+    // TODO fix for index page
+    if (window.location.pathname == '*/index.html')
     {
         document.getElementById('main_3d_image').style.height = '150px';
         document.getElementById('main_3d_image').style.padding = '0px';
