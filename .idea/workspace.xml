@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e7de86-17dd-4262-8268-97db241394e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/model/model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/mvc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/view/load.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dapp/assignment/phpinfo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/mvc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -55,17 +48,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/model.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="733">
+              <caret line="45" column="80" selection-start-line="45" selection-start-column="80" selection-end-line="45" selection-end-column="80" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/phpinfo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="34">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -82,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -154,6 +156,8 @@
         <option value="$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js" />
         <option value="$PROJECT_DIR$/3dapp/assignment/css/custom.css" />
         <option value="$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php" />
+        <option value="$PROJECT_DIR$/3dapp/assignment/application/mvc.php" />
+        <option value="$PROJECT_DIR$/3dapp/assignment/application/model/model.php" />
         <option value="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" />
       </list>
     </option>
@@ -187,6 +191,37 @@
               <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
               <item name="3dapp" type="462c0819:PsiDirectoryNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
+              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
+              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
+              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VirtualMuseum" type="462c0819:PsiDirectoryNode" />
+              <item name="3dapp" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VirtualMuseum" type="b2602c69:ProjectViewProjectNode" />
@@ -227,15 +262,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/hook.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3dapp/assignment/application/view" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\application\view" />
+      <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\application" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\application\view" />
       <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\js" />
       <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment" />
       <recent name="C:\Users\Alessia\Documents\Web3d\VirtualMuseum\3dapp\assignment\scripts" />
@@ -283,7 +324,7 @@
       <workItem from="1554141565634" duration="3385000" />
       <workItem from="1555805872797" duration="93000" />
       <workItem from="1556800138570" duration="336000" />
-      <workItem from="1556818873703" duration="626000" />
+      <workItem from="1556818873703" duration="1923000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1553869698092</created>
@@ -355,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554144951100</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated php">
+      <created>1556819543585</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556819543585</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53626000" />
+    <option name="totallyTimeSpent" value="54923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,9 +420,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30634573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30634573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,15 +432,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.33260393" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.33260393" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.17984831" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32985073" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,11 +496,10 @@
     <MESSAGE value="Created 3d images gallery with gallery generator and JQuery" />
     <MESSAGE value="Modified gallery css" />
     <MESSAGE value="Refactored gallery generator and fixed bug with content swap main_image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored gallery generator and fixed bug with content swap main_image" />
+    <MESSAGE value="Updated php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/fade.css" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/Container.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/swap_camera.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/Header.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/Home.js" />
@@ -642,17 +688,13 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/model.php">
+    <entry file="file://$PROJECT_DIR$/.idea/php.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/mvc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -663,6 +705,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/mvc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -670,17 +726,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php">
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="733">
+          <caret line="45" column="80" selection-start-line="45" selection-start-column="80" selection-end-line="45" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/49dcbd69-1cab-4e28-b694-4448aadcefe3/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cfff6cca-746a-408f-8573-591e001540b1/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/phpinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="34">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
