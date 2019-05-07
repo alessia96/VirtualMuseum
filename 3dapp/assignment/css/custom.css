@@ -1,12 +1,73 @@
+@media (min-width: 576px) {
+    #model-view{
+        height: 398px;
+    }
+
+    #buttons-view {
+        font-size: 10px;
+      }
+
+      .contents {
+        padding: 3% 5% 5% 5%;
+    }
+}
+
+@media (min-width: 768px) {
+    #model-view{
+        height: 398px;
+    }
+
+    #buttons-view {
+        font-size: 10px;
+      }
+
+      .contents {
+        padding: 3% 5% 5% 5%;
+    }
+
+}
+
+@media (min-width: 992px) {
+    #model-view{
+        height: 558px;
+    }
+
+    .contents {
+        padding: 3% 15% 5% 15%;
+    }
+}
+
+@media (min-width: 1200px) {
+    #model-view{
+        height: 700px;
+    }
+
+    .contents {
+        padding: 3% 15% 5% 15%;
+    }
+}
+
+@media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }
+
 h1, h2, h3, h4, h5, h6, p {
-   font-family: Roboto;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0px;
 }
 
-nav {
-    background-color: black;
+a {
+    color: white;
 }
 
-.navbar, .navbar-brand, .nav-link {
+a:hover {
+    color: #9ea39f;
+    text-decoration: none;
+}
+
+.navbar, .navbar-brand, .nav-item, .nav-link {
     background-color: #161a25;
     color: white;
 }
@@ -15,62 +76,30 @@ nav {
     color: #9ea39f;
 }
 
-.logo {
-    margin-top: 20px;
-    color: white;
-}
-
-.logo h1 {
-    font-family: Roboto;
-    font-size: 40px;
-    margin: 0;
-    margin-top: -20px;
-    margin-bottom: -15px;
-    float: left;
-    padding-top: 0px;
-    padding-left: 0px;
-    padding-right: 2px;
-}
-
-.logo p {
-    font-size: 18px;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    padding-top: 0px;
-    padding-left: 3px;
-}
-
-footer {
-    background-color: #161a25;
-    padding: 20px 0px 60px 0px;
+.container-fluid {
+    padding: 0px;
     margin: 0px;
-    color: white;
 }
 
-footer a {
-    color: white;
+#custom-navbar-nav {
+    text-align: right;
+    float: right;
+    padding: 1rem;
+    flex-grow: 0;
 }
 
-footer a:hover {
-    color: #9ea39f;
-    text-decoration: none;
-}
-
-.footer-copyright {
-    background-color: #161a25;
-    padding: 15px;
-}
-
-.contents h1, h2, h3, p {
-    text-align: center;
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1.0)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 #main_3d_image {
     background-image: url(../assets/images/gun.jpg);
     background-repeat: no-repeat;
-    background-position: center;
-    height: 500px;
-    padding: 200px;
+    background-position-y: -200px;
+    background-position-x: center;
+    height: 500;
+    width: 100%;
+    padding: 1rem 0rem 1rem 0rem;
     text-align: center;
     color: white;
 }
@@ -86,6 +115,7 @@ footer a:hover {
 
 #main_3d_image h3 {
     font-size: 15px;
+    padding-top: 10px;
 }
 
 button {
@@ -106,42 +136,140 @@ button:hover {
 }
 
 .contents {
-    padding: 50px 200px 0px 200px;
+    padding: 3% 15% 5% 15%;
 }
 
-.centered {
-    color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+#gallery_table {
+    padding: 3% 5% 3% 5%;
 }
 
 .card, .card-title, .card-body, .card-img-top, .img-fluid, .img-thumbnail {
-    padding: 1px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,
+.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
+.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
+.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
+.col-xl-auto {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#model3D {
+    height: 90%;
+    width: 100%;
+}
+
+#model-view{
+    padding-top: 5%;
+    /* height: 318px; */
+}
+
+footer {
+    background-color: #161a25;
+    color: white;
+    padding: 1% 5% 1% 5%;
+    text-align: center;
+}
+
+.footer-copyright, .footer-copyright a{
+    background-color: #161a25;
+}
+
+#footer-pad {
+    padding-top: 5%;
+}
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    padding: 10px 15px;
     border: none;
-    border-radius: 0px;
+  }
+  
+  .openbtn:hover {
+    background-color: #444;
+  }
+
+  #data-view {
+    width: 50%;
+    padding-top: 5%;
+  }
+
+  #buttons-view {
+    /* width: 50%;
+    padding-top: 5%;
+    font-size: 10px; */
+    align-self: right;
+  }
+
+  #buttons-view h5 {
+    /* text-align: right;
+    font-size: 15px; */
+  }
+
+  #models button {
+    background-color: #161a25; 
+    color: white;
+    border: 0px;
+    padding: 5px;
+    margin: 0px;
+  }
+
+  img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+img:hover {
+	opacity: .5;
 }
 
-/* TODO for other use
-.card-body:hover {
-    opacity: 0.25;
-    transition: .2s ease-in-out;
-    text: black;
-}*/
+.mySlides {display:none;}
 
-#gallery_table {
-    width: 500px;
+#gallery-card  .card{
+    width: 25%;
+    display: inline-table;
 }
 
-.col-sm-12 {
-    padding: 0px;
+#models-card .card {
+    width: 45%;
+    display: inline-table;
 }
 
-.col-sm-6 {
-    padding: 0px 30px 0px 30px;
-}
-
-.col-sm-4 {
-    padding: 0px;
+#models-card h5 {
+    text-align: right;
 }

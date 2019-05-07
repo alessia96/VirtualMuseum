@@ -1,0 +1,88 @@
+{
+    "pageTextData": [
+      {
+        "title": "Home 1 title",
+        "description": "Home 1 description"
+      },
+      {
+        "title": "Home 2 title",
+        "description": "Home 2 description"
+      },
+      {
+        "title": "About",
+        "description": "About description"
+      },
+      {
+        "title": "Models",
+        "description": "Press r to reset, click on the model to visit its page, use the buttons and sliders to interact"
+      },
+      {
+        "title": "Gallery",
+        "description": "Gallery description"
+      },
+      {
+        "title": "Beyond",
+        "description": "*3D"
+      },
+      {
+        "title": "Statement of Originality",
+        "description": "Statement"
+      },
+      {
+        "title": "References",
+        "description": "https://www.pinterest.com.mx/pin/446700856785471742/?lp=true https://www.onlinewebfonts.com/icon/562022 lightboxes"
+      },
+      {
+        "title": "Download",
+        "description": "Download description"
+      },
+      {
+        "title": "Site Map",
+        "description": "Site Map description"
+      },
+      {
+        "x3dModelTitle": "2017_revolver.x3d",
+        "x3dCreationMethod": "This X3D model has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+        "title": "Centrefire six-shot revolver - Smith & Wesson New Model No.3 Target",
+        "date": "about 1889",
+        "number": "XII.11101",
+        "provenance": "Manufactured by S&W in 1888 or 1889 Supplied to Winans Jan 5 1893 Acquired by Flinders Petrie date unknown Gifted to Carl Pape date unknown Retained by his family Acquired by Royal Armouries under deposit number A0290",
+        "description": "A cased example of a Target model wth 6.5 barrel and barleycorn style front sight. High quality blue finish and with colour case-hardened hammer. It is engraved with the owners initials and competition details.",
+        "link": "https://collections.royalarmouries.org/object/rac-object-48648.html",
+        "image": ["revolver", "revolver_cam1", "revolver_cam2", "revolver_cam3"]
+      },
+      {
+        "x3dModelTitle": "2017_pistol.x3d",
+        "x3dCreationMethod": "This X3D model has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+        "title": "Centrefire self-loading pistol - Makarov PM Darra copy",
+        "date": "about 2011",
+        "number": "XII.11886",
+        "provenance": "Gifted by the Ministry of Defence, February 2016",
+        "description": "This Pakistani or Afghani copy or refurbished Makarov PM is a medium-size pistol with a straight blowback action and is of all steel construction with a frame-fixed barrel. In a blowback designs such as this, the only force holding the slide closed is that of the recoil spring wrapped around the barrel; as a consequence upon firing the barrel and slide do not have to unlock. Blowback designs are simple and more accurate than designs using a recoiling, tilting, or articulated barrel, but they are limited practically by the need to have weight in the slide. The 9×18mm cartridge (Russian designation: 57-N-181S) around which this pistol was designed provides enough energy to action the blowback design. The PM is heavy for its size, largely because of the heavy slide which is needed to provide greater inertia to delay the opening of the breech until internal pressures have fallen to a safe level. The Makarov design is widely regarded as particularly well balanced. The slide also has a full- length textured anti-glare strip on the top In concept the Makarov PM is a very simple pistol, the designer Makarov and his team, during development, drastically simplified the construction of the pistol, improving its reliability and reducing the number of parts to an astonishing 27, not including the magazine. The non-chrome-lined, 4-groove, right hand twist, 9.27mm (true calibre) barrel is pressed and pinned to the frame through a precision-machined ring. There should a 7kg rated recoil spring that wraps around the barrel which also acts as the spring guide. The front sight is integrally machined into the slide. The fixed rear sight is dovetailed into the slide. The extractor is of an external spring-loaded type. The breech face is deeply recessed in order to improve extraction and ejection reliability. The stamped sheet steel slide-lock lever has an internal tail serving the additional purpose of an ejector. The one-piece, wraparound bakelite or later plastic grip is reinforced with steel inserts and has a detent inside the screw bushing preventing unscrewing during firing. There is an impressed 5 pointed star within a circle on each side of the grip. A lanyard ring is affixed on the left side of the grip. The sheet-metal mainspring housed inside the grip operates the hammer, the trigger and the disconnector, and its lower end is the heel and spring of the magazine catch. The sear spring also serves a dual purpose by operating the slide-lock lever. The Model PM has a free-floating triangular shaped firing pin, with no firing pin spring or firing pin block. This example has engraved serial numbers which are 3mm in size instead of 4mm, the quality of the engraving is also suspect. There is also no evidence of inspection stamps. All of the Pakistani or Afghani copy or refurbished Makarov PMs seem to be dated 1991, clearly a spurious date.",
+        "link": "https://collections.royalarmouries.org/object/rac-object-83296.html",
+        "image": ["pistol", "pistol_cam1", "pistol_cam2", "pistol_cam3"]
+      },
+      {
+        "x3dModelTitle": "2017_rifle.x3d",
+        "x3dCreationMethod": "This X3D model has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+        "title": "Centrefire automatic rifle - SCAR-H",
+        "date": "2012",
+        "number": "XXX.287",
+        "provenance": "New manufacture by Herstal, Belgium, purchased via their UK agent Law Enforcement International Ltd, 3rd October 2011",
+        "description": "Composite plastics and carbon steel",
+        "link": "https://collections.royalarmouries.org/object/rac-object-55735.html",
+        "image": ["rifle", "rifle_cam1", "rifle_cam2", "rifle_cam3"]
+      },
+      {
+        "x3dModelTitle": "2017_sniper.x3d",
+        "x3dCreationMethod": "This X3D model has been created in 3ds Max, exported to VRML97 and converted, using the instantreality transcoders, to X3D for display online.",
+        "title": "Centrefire self-loading sniper rifle - SVD Dragunov",
+        "date": "1986",
+        "number": "XXIV.8853",
+        "provenance": "Transferred from M.87",
+        "description": "Fitted with scope",
+        "link": "https://collections.royalarmouries.org/object/rac-object-45755.html",
+        "image": ["sniper", "sniper_cam1", "sniper_cam2", "sniper_cam3"]
+      }
+    ]
+  }
