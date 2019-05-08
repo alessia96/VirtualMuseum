@@ -1,32 +1,32 @@
 {
     "pageTextData": [
       {
-        "title": "Home 1 title",
-        "description": "Home 1 description"
+        "title": "Welcome to the <b>Virtual Museum of Firearms</b>.",
+        "description": "This is an unofficial collection of 3D models and renders of historical firearms inspired to the original collection at the <a href=\"https://royalarmouries.org/\"><b>Royal Armouries Museum</b></a>, in Leeds, UK."
       },
       {
-        "title": "Home 2 title",
-        "description": "Home 2 description"
+        "title": "Explore a historical collection.",
+        "description": "Navigate to the <a href=\"#\">Models</a> section to access a 3D visualisation of the geometry of the 4 firearms included in this collection, or explore the <a href=\"#\">Gallery</a> for a range of images rendered with optimal lighting and viewpoints."
       },
       {
         "title": "About",
-        "description": "About description"
+        "description": "This website was created using <b>HTML5</b>, <b>CSS3</b>, <b>Javascript</b> (with JQuery), <b>AJAX</b>, <b>PHP7</b> and <b>SQLite</b> with an <b>MVC</b> design pattern. The framework used is <b>Bootstrap 4</b>. The IDE used were JetBrains' <b>PhpStorm 2019</b>, <b>Sublime Text 3</b> and <b>Visual Studio Code</b>. The 3D objects are modelled using Autodesk's <b>3D Studio Max 2017</b> and rendered using NVidia <b>Mental Ray</b>. The textures were edited using Adobe <b>Photoshop</b>. The 3D models include <b>VRML97</b> Helpers, are tested on instantreality and embedded using the XML-based technology <b>X3DOM</b>."
       },
       {
-        "title": "Models",
-        "description": "Press r to reset, click on the model to visit its page, use the buttons and sliders to interact"
+        "title": "3D Models",
+        "description": "The 3D models displayed below are built in 3D Studio Max and use VRML97 Helpers for web interaction. They are embedded with the XML-based technology X3DOM.<br>Click and drag to inspect the model. Click on the model for redirection to its Royal Armouries web page. Press R to reset the viewpoint. Use the buttons and sliders below to change camera view, toggle lights, animation and wireframe mode, or to apply a layer of fog on the model."
       },
       {
         "title": "Gallery",
-        "description": "Gallery description"
+        "description": "The 3D images displayed below are rendered with NVidia Mental Ray. Switch between Slideshow and Cards mode using the apposite buttons. When in Slideshow mode, you can navigate the images using the Prev and Next buttons below. When in Cards mode, you can click on each card to open a lightbox and see the image in full resolution (1920 x 1080)."
       },
       {
-        "title": "Beyond",
-        "description": "*3D"
+        "title": "Extras",
+        "description": "In working on this website, all measures were taken to ensure a high quality of navigation, usability and user experience. In particular,<br><ul><li><b>3D Geometry</b>:<bt>The objects selected for modelling presented a high degree of complexity, and were built with performance in mind. In this, each model contains the lowest amount of polys to maintain the realistic look that characterises this Web 3D experience.</li><li><b>Photorealistic texturing & rendering</b>:<br>The rendering takes advantage of photorealistic textures, edited using Photoshop, to provide an immersive experience. Additionally, a cloth simulation was made using physics and Cloth modifiers to create beautiful and realistic renders for each model.</li><li><b>CSS Styling</b>: The 3D App was designed with usability and user experience in mind. Fluid grid layouts were used were appropriate, and input features were redesigned to override the default Bootstrap 4 ones (i.e. by recreating a style and colour theme and respecting it throughout the app) to create a unique experience.<ul><li><b>Lightboxes</b></li><li><b>Text and Image Keyframe-Based Animations</b></li><li><b>Sidebar</b>: Mobile first</li><li><b>Smooth transitions between content</b></li><li><b>Slideshow & Cards Gallery Navigation Modes</b></li><li><b>Full Responsiveness</b></li></ul></li><li><b>Javascript/JQuery Interactivity & Relation to MVC Design Pattern</b>: Data included in the 3D App is read from a JSON file, stored in a SQLite database and fetched to the front-end using JQuery. This ensures a smooth content-insertion workflow, which takes advantage of an extended MVC design pattern and of an easy to manage database that includes all CRUD functions needed for the implementation. Content in the SPA is swapped using JQuery effects to improve the user experience.</li><li><b>3D Interactivity</b>: Animations are designed to be on theme with the object. Different camera views and lights are provided for user interaction, together with extra interactions such as a fog modifier.</li></ul>"
       },
       {
         "title": "Statement of Originality",
-        "description": "Statement"
+        "description": "This assignment is submitted as part requirement for the degree of Computer Science and Artificial Intelligence at the University of Sussex. It is the product of my own labour except where indicated. The assignment may be freely copied and distributed provided the source is acknowledged."
       },
       {
         "title": "References",
