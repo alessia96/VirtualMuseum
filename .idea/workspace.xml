@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e7de86-17dd-4262-8268-97db241394e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/controller/controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/model/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/model/model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/mvc.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/mvc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/view/load.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/view/load.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/pistol.png" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/pistol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/scar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/scar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/svd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/svd2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/assets/x3d/gun.x3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/css/x3dom.css" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/css/x3dom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/hook.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/content_swap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/jquery-3.2.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/jquery-3.2.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/js/x3dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/js/x3dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/model/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3dapp/assignment/phpinfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3dapp/assignment/application/model/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/3dapp/assignment/application/model/data.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +25,52 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun3.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/scar.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/scar2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/svd.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/svd2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,6 +139,7 @@
         <option value="$PROJECT_DIR$/3dapp/assignment/application/mvc.php" />
         <option value="$PROJECT_DIR$/3dapp/assignment/application/model/model.php" />
         <option value="$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" />
+        <option value="$PROJECT_DIR$/3dapp/assignment/application/model/data.json" />
       </list>
     </option>
   </component>
@@ -290,6 +308,7 @@
       <workItem from="1556818873703" duration="1923000" />
       <workItem from="1557088398408" duration="888000" />
       <workItem from="1557219237476" duration="100000" />
+      <workItem from="1557310061453" duration="1859000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1553869698092</created>
@@ -372,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55911000" />
+    <option name="totallyTimeSpent" value="57770000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,7 +405,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +419,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.33260393" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.17984831" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.16576381" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,14 +484,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/swap_camera.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/Header.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/Home.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/esm/react-router-dom.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/components/About.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/components/Home.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/App.js" />
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/components/main.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/AppRouter.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/index.css" />
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
@@ -517,13 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/x3d/gun.x3d">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/x3d/gun.x3d" />
     <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/js/getJsonData.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -538,12 +543,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/svd.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/svd.png" />
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/gun.png" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/jquery.fancybox.min.css" />
     <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/hook.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -552,13 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/hook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/hook.php" />
     <entry file="file://$PROJECT_DIR$/../public_html 15 Mar/3dapp/lab/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -607,19 +602,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/model/data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/model/data.json" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/getJsonData.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/js/gallery_generator.js" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -669,13 +656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="80" selection-start-line="45" selection-start-column="80" selection-end-line="45" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/view3DAppTest2.php" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/view/load.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -690,13 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3dapp/assignment/phpinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/phpinfo.php" />
     <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/model.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -710,6 +685,34 @@
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/application/model/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/gun3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/scar.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/scar2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/svd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3dapp/assignment/assets/images/gallery/old/svd2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
