@@ -1,8 +1,10 @@
 <?php
+    // Model accesses the raw data (data.json) and the database, and provides the logic of data handling that is requested by the Controller
     class Model
     {
         public $dbhandle;
         
+        // construct a database
         public function __construct()
         {
             $dsn = 'sqlite:./db/data.db';
@@ -22,6 +24,7 @@
             }
         }
         
+        // create Model_3D and Site_Data tables
         public function dbCreateTable()
         {
             try
@@ -38,6 +41,7 @@
             $this->dbhandle = NULL;
         }
 
+        // delete Model_3D and Site_Data tables
         public function dbDropTable()
         {
             try
@@ -53,7 +57,8 @@
 
             $this->dbhandle = NULL;
         }
-        
+
+        // insert data to tables from JSON file        
         public function dbInsertData()
         {
             $datafile = fopen("application/model/data.json", "r");
@@ -84,7 +89,7 @@
                                  "', '" . $json[$i]['provenance'] .
                                   "', '" . $json[$i]['description'] .
                                   "', '" . $json[$i]['link'] .
-                                   "', '" . serialize($json[$i]['image']) . "');");
+                                   "', '" . serialize($json[$i]['image']) . "');"); // data provided as array is serialised before being stored
                 }
 
                 return "Data inserted successfully inside data.db";
@@ -97,6 +102,7 @@
             $this->dbhandle = NULL;
         }
 
+        // return all data contained in database
         public function dbGetData()
         {
             try
@@ -141,6 +147,7 @@
             return $result;
         }
         
+        // return specific column from specific table
         public function dbGetColumnData($column = null, $table = null)
         {
             try

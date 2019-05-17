@@ -1,3 +1,4 @@
+<!-- Echo a message for table creation, deletion and data insertion -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

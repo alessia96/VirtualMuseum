@@ -1,3 +1,4 @@
 <?php
-  echo json_encode($data);
+	// echo requested data
+  	echo json_encode($data);
 ?>

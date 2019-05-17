@@ -1,5 +1,5 @@
 <?php
-
+	// Load handles the requests of the Controller and loads the specific view requested
 	class Load
 	{
 

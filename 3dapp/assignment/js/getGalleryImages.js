@@ -1,12 +1,12 @@
-// JavaScript Document
+// handle HTML formatting of data received from apiGetGalleryImages
 $(document).ready(function()
 {
-    //AJAX service request to get the main text data from the json data store
     $.get("./index.php/apiGetGalleryImages", function(response)
     {
         var res = response.split("<br>");
         var htmlCode = '<div id="gallery-card">';
         
+        // insert text data into cards
         for (var i = 0; i < res.length - 1; i++)
         {
             htmlCode += '<div class="card">';
@@ -16,10 +16,12 @@ $(document).ready(function()
 
         htmlCode += '</div>';
 
+        // return as gallery table
         $("#gallery_table").html(htmlCode);
 
         htmlCode = "";
 
+        // insert text data into slideshow
         for (var i = 1; i < res.length - 1; i++)
         {
             htmlCode += `<img class="mySlides" src="${res[i]}" style="width:100%" style="display:block">`
@@ -27,6 +29,7 @@ $(document).ready(function()
 
         htmlCode += '<br><button onclick="plusDivs(-1)">Prev</button><button onclick="plusDivs(1)">Next</button>';
 
+        // return as slideshow table
         $("#slideshow_table").html(htmlCode);
     });
 });

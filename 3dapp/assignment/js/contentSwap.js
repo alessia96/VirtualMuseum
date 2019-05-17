@@ -1,6 +1,7 @@
+// handle smooth swap of divs in home.php
 $(document).ready(function()
 {
-    $('.navbar-brand').click(function ()
+    $('.link').click(function ()
     {
         if($(this).attr('id') == 'home-link')
         {
@@ -14,11 +15,7 @@ $(document).ready(function()
             $('#references').hide();
             $('#downloads').hide();
         }
-    });
-
-    $('.sidebar-link').click(function ()
-    {
-        if($(this).attr('id') == 'about-link')
+        else if($(this).attr('id') == 'about-link')
         {
             $('#home').hide();
             $('#about').fadeIn(2000);
@@ -54,11 +51,7 @@ $(document).ready(function()
             $('#references').hide();
             $('#downloads').hide();
         }
-    });
-
-    $('.footer-link').click(function ()
-    {
-        if($(this).attr('id') == 'extras-link')
+        else if($(this).attr('id') == 'extras-link')
         {
             $('#home').hide();
             $('#about').hide();
@@ -118,11 +111,7 @@ $(document).ready(function()
             $('#references').hide();
             $('#downloads').hide();
         }
-    });
-
-    $('.gallery-nav').click(function ()
-    {
-        if($(this).attr('id') == 'slideshow-link')
+        else if($(this).attr('id') == 'slideshow-link')
         {
             $('#gallery_table').hide();
             $('#slideshow').fadeIn(2000);
@@ -134,13 +123,3 @@ $(document).ready(function()
         }
     });
 });
-
-function openNav()
-{
-    document.getElementById("mySidebar").style.width = "250px";
-}
-
-function closeNav()
-{
-    document.getElementById("mySidebar").style.width = "0";
-}

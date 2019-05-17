@@ -1,5 +1,5 @@
 <?php 
-
+	// echo gallery images paths
     $result = "";
 
     for ($i = 0; $i < count($data); $i++)
